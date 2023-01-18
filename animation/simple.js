@@ -1,0 +1,1 @@
+console.log("we call this js script from animation.js");
